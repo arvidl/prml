@@ -9,7 +9,7 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 
 ![PRML](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/PRML-banner-1024x241.jpg)
 
-The complete book can be downloaded from [Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+The complete book can be downloaded from [Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 
 
 ## Discussions (new)
