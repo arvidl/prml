@@ -17,3 +17,9 @@
 - Undirected graphs are better suited to expressing soft constraints between random variables.
 
 - For solving inference problems, it is often convenient to convert both directed and undirected graphs into a different representation called a **factor graph**.
+
+
+## Markov Random Fields
+
+
+- See Markov Random Field For Image Segmentation and Denoising (https://github.com/AliMorty/Markov-Random-Field-Project/blob/master/Codes/Complete_version.ipynb)
