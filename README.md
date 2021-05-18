@@ -5,7 +5,12 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gerdm/prml/tree/master/)
 
 
-This project contains Jupyter notebooks of many the algorithms presented in Christopher Bishop's Pattern Recognition and Machine Learning book, as well as replicas for many of the graphs presented in the book.
+This project contains Jupyter notebooks of many the algorithms presented in Christopher Bishop's Pattern Recognition and Machine Learning book, as well as replicas for many of the graphs presented in the book. 
+
+![PRML](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/PRML-banner-1024x241.jpg)
+
+The complete book can be downloaded from [Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
 
 ## Discussions (new)
 If you have any questions and/or requests, check out the [discussions](https://github.com/gerdm/prml/discussions) page!
